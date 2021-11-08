@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/matchThree/static/css/main.ad21cccc.chunk.css",
+    "main.js": "/matchThree/static/js/main.b0d0ec4c.chunk.js",
+    "main.js.map": "/matchThree/static/js/main.b0d0ec4c.chunk.js.map",
+    "runtime-main.js": "/matchThree/static/js/runtime-main.3cf778ad.js",
+    "runtime-main.js.map": "/matchThree/static/js/runtime-main.3cf778ad.js.map",
+    "static/js/2.3061fa9f.chunk.js": "/matchThree/static/js/2.3061fa9f.chunk.js",
+    "static/js/2.3061fa9f.chunk.js.map": "/matchThree/static/js/2.3061fa9f.chunk.js.map",
+    "index.html": "/matchThree/index.html",
+    "static/css/main.ad21cccc.chunk.css.map": "/matchThree/static/css/main.ad21cccc.chunk.css.map",
+    "static/js/2.3061fa9f.chunk.js.LICENSE.txt": "/matchThree/static/js/2.3061fa9f.chunk.js.LICENSE.txt",
+    "static/media/blank.fbcb9179.png": "/matchThree/static/media/blank.fbcb9179.png",
+    "static/media/blue-candy.73120c15.png": "/matchThree/static/media/blue-candy.73120c15.png",
+    "static/media/green-candy.599f7016.png": "/matchThree/static/media/green-candy.599f7016.png",
+    "static/media/orange-candy.f106b2cd.png": "/matchThree/static/media/orange-candy.f106b2cd.png",
+    "static/media/purple-candy.ae25b8a5.png": "/matchThree/static/media/purple-candy.ae25b8a5.png",
+    "static/media/red-candy.3658b37c.png": "/matchThree/static/media/red-candy.3658b37c.png",
+    "static/media/yellow-candy.a3d87a9b.png": "/matchThree/static/media/yellow-candy.a3d87a9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cf778ad.js",
+    "static/js/2.3061fa9f.chunk.js",
+    "static/css/main.ad21cccc.chunk.css",
+    "static/js/main.b0d0ec4c.chunk.js"
+  ]
+}
